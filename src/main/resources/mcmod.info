@@ -1,0 +1,21 @@
+[
+{
+  "modid": "ModTutorials",
+  "name": "Mod Tutorials",
+  "description": "Learning to mod!",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "fa1th"
+  ],
+  "credits": "Pahimar",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
